@@ -1,5 +1,6 @@
 ---
 - puppet-awstats
+- puppet-ipmi
 - puppet-smartd
 ...
 # vim: syntax=yaml
