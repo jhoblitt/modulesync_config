@@ -1,5 +1,6 @@
 ---
 - puppet-awstats
+- puppet-ganglia
 - puppet-ipmi
 - puppet-smartd
 ...
