@@ -3,5 +3,6 @@
 - puppet-ganglia
 - puppet-ipmi
 - puppet-smartd
+- puppet-template
 ...
 # vim: syntax=yaml
